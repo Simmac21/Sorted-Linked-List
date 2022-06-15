@@ -5,6 +5,7 @@ This program will store a collection of items and maintain the order of the item
 Following are the methods:
 
 • add : Elements added to the collection in sorted order.
+
 • remove: Elements specified are removed from the collection maintaing the current order.
 
 The specified class is a generic class.
